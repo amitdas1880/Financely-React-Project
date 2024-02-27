@@ -1,0 +1,9 @@
+npm install firebase
+npm i react-router-dom
+npm i react-toastify
+npm i react-firebase-hooks
+npm i antd
+npm i moment
+npm i papaparse
+npm i @ant-design/charts
+npm i react-icons

@@ -1,3 +1,10 @@
+:root{
+  --theme:#2970ff;
+  --black: #000;
+  --white: #fff;
+  --shadow:0px 0px 30px 8px rgba(227,227,227,0.75);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +18,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.input-flex{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.5rem;
+  width: 80%;
+  box-shadow: 0px 0px 30px 8px rgba(227,227,227,0.75);
+  border-radius: 0.5rem;
+  padding: 0rem 0.5rem ;
+  
+}
+.input-flex:hover{
+  outline: 0.1px solid rgb(3, 127, 131);
+}
+.input-flex input{
+  width: 100%;
+  padding:  0.5rem;
+  border: none;
+}
+
+.input-flex input:focus{
+  outline: none;
+}
+
+.search-Item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  width: 99%;
+  border-radius: 0.5rem;
+  padding: 0rem 0.5rem ;
+}
+
+.select-input{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: .5rem;
+  width: 20%;
+  
+  border-radius: 0.5rem;
+  padding: 0rem 0.5rem ;
+}
+
