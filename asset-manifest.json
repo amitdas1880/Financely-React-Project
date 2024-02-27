@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Financely-React-Project/static/css/main.db7462b3.css",
+    "main.js": "/Financely-React-Project/static/js/main.88ae6807.js",
+    "static/js/453.69670095.chunk.js": "/Financely-React-Project/static/js/453.69670095.chunk.js",
+    "index.html": "/Financely-React-Project/index.html",
+    "main.db7462b3.css.map": "/Financely-React-Project/static/css/main.db7462b3.css.map",
+    "main.88ae6807.js.map": "/Financely-React-Project/static/js/main.88ae6807.js.map",
+    "453.69670095.chunk.js.map": "/Financely-React-Project/static/js/453.69670095.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db7462b3.css",
+    "static/js/main.88ae6807.js"
+  ]
+}
